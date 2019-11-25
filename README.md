@@ -1,5 +1,5 @@
-create a repository on github 
-go to IDE & create a new directory 
+create a repository on github then 
+go to IDE & create a new directory after
 get into that directory 
 then create a follow 
 write your message 
